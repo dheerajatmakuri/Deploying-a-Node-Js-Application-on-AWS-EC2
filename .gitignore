@@ -2,6 +2,6 @@
 .DS_Store
 .vscode
 
-# Dependencies
+# Dependencies required
 node_modules
 package-lock.json
